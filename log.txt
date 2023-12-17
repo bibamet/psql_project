@@ -1,0 +1,9 @@
+2023-12-16 20:00:49,772	INFO	model.DBManager.<init>(DBManager.java:22)	DBManager created
+2023-12-16 20:02:33,895	INFO	model.DBManager.<init>(DBManager.java:22)	DBManager created
+2023-12-16 20:03:54,861	INFO	model.DBManager.<init>(DBManager.java:22)	DBManager created
+2023-12-16 20:04:07,525	INFO	model.DBManager.<init>(DBManager.java:22)	DBManager created
+2023-12-16 20:07:17,525	INFO	model.DBManager.<init>(DBManager.java:22)	DBManager created
+2023-12-16 20:16:29,998	INFO	model.DBManager.<init>(DBManager.java:22)	DBManager created
+2023-12-16 20:26:47,329	INFO	model.DBManager.<init>(DBManager.java:22)	DBManager created
+2023-12-16 20:26:47,355	ERROR	model.repository.UserRepository.getUsersAndCountries(UserRepository.java:82)	Произошла ошибка во время выполнения запроса 'getUsersAndCountries()'
+2023-12-16 20:28:07,964	INFO	model.DBManager.<init>(DBManager.java:22)	DBManager created
